@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573818473022",
+    "project_id": "ashok-8162f",
+    "storage_bucket": "ashok-8162f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573818473022:android:e8ceb0865890513d3fdf6f",
+        "android_client_info": {
+          "package_name": "com.hoperaiser.ashok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573818473022-q4fahn5sv3q0c11rb90tgtfk797n9l2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoperaiser.ashok",
+            "certificate_hash": "89ca7da266781a372c9f13686a317d270b863d61"
+          }
+        },
+        {
+          "client_id": "573818473022-9ptqviuo5os28v6bdbgvetel2krqo5mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNWlQFHW1Uaw9N9afd1jpvP8woLgxlwgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573818473022-9ptqviuo5os28v6bdbgvetel2krqo5mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
